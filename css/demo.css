@@ -1,0 +1,320 @@
+.top{
+	width: 1200px;
+	height: 101px;
+	margin-top: 33px;
+	margin-left: 369px;
+}
+.big{
+	background-color: #F3F5F7;
+	height: 1648px;
+}
+.xuelizaixian{
+	width:170px;
+	height:39px;
+	font-size:40px;
+	font-weight:bold;
+	color:rgba(0,164,255,1);
+	float: left;
+}
+.nav{
+	float: left;
+	margin-left: 60px;
+}
+.nav li{
+	float: left;
+	font-size:18px;
+	font-weight:400;
+	color:rgba(5,5,5,1);
+	margin-right: 40px;
+	height: 100px;
+	line-height:50px;
+	text-align: center;
+}
+.search{
+	width: 411px;
+	height: 39px;
+	float: left;
+	margin-left: 100px;
+	border:1px solid rgba(0,164,255,1);
+	padding-left: 13px;
+	vertical-align: bottom;
+}
+.submit{
+	float: left;
+	width: 50px;
+	height: 40px;
+	background: ;
+	border: none;
+	background: rgba(0,164,255,1) url(E:/WEB/作业/image/fa-search.png) no-repeat center
+}
+.geren{
+	float: left;
+	margin-left: 40px;
+	width:60px;
+	height:12px;
+	font-size:14px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(102,102,102,1);
+	margin-top: 20px;
+	margin-left: 20px;
+}	
+.nav a{
+	color: rgba(5,5,5,1);
+}
+.nav a:hover{
+	border-bottom: 2px solid rgba(0,164,255,1);
+}
+.second{
+	width:1920px;
+	height:420px;
+	background:rgba(28,3,108,1);
+}
+.second ul{
+	float: left;
+	margin-left: 360px;
+	background:rgba(0,0,0,1);
+	height: 420px;
+}
+
+.second li{
+	color: white;
+	margin-top: 24px;
+}
+.second a{
+	color: white;
+}
+.logo2{
+}
+.jingpin{
+	height: 60px;
+}
+.jingpin ul{
+	float: left;
+	margin-left: 360px;
+	background-color: white;
+}
+.jingpin li{
+	float: left;
+	width: 140px;
+	height: 58px;
+	font-size:16px;
+	font-family:Microsoft YaHei;
+	font-weight:bold;
+	text-align: center;
+	line-height: 60px;
+}
+.biankaung{
+	border-left: 1px solid 
+}
+.jingpin a{
+	color: black;
+}
+.yanse a{
+	color: #00A4FF;
+}
+.bian a{
+	color: #00A4FF;
+	font-size: 7px;
+	margin-left: 40px;
+}
+.third{
+	margin-left: 360px;
+	margin-top: 37px;
+	width: 1200px;
+}
+.one{
+	margin-top: 21px;
+	float: left;
+	margin-right: 10px;
+}
+.one p{
+	width: 225px;
+	margin-top: 25px;
+	font-size: 14px;
+}
+.tu{
+	width: 230px;
+	height: 270px;
+	background-color: white
+}
+.cheng{
+	color: orange;
+	margin-left: 20px;
+}
+.ziti{
+	font-size: 12px
+	color: #868686;
+}
+.zi{
+	width: 120px;
+	height: 34px;
+}
+.zi1{
+	font-size: 20px;
+	padding-top: 20px;
+	float: left;
+	text-align: center;
+}
+.zi2{
+	float: left;
+	padding-top: 20px;
+	margin-left: 300px;
+	text-align: center;
+	line-height: 30px;
+}
+.zi3{
+	float: left;
+	padding-top: 20px;
+	text-align: center;
+	margin-left: 100px;
+	line-height: 30px;
+	font-size: 16px;
+}
+.zi4{
+	float: left;
+	padding-top: 20px;
+	margin-left: 250px;
+	line-height: 30px;
+	font-size: 12px;
+}
+.zi2 a{
+	color: #00A4FF;
+}
+.zi3 a{
+	color: #868686;
+}
+.zi4 a{
+	color: #868686;
+}
+.two{
+	margin-left: 360px;
+}
+.forth{
+	display: inline;
+}
+.short{
+	height:450px;
+	background-color: #F3F5F7;
+}
+.short2{
+	margin-left: 360px;
+	font-size: 20px;
+	position: absolute;
+}
+.tupian1{
+	float: left;
+	margin-top: 40px;
+}
+.tupian2{
+	float: left;
+	margin-top: 40px;
+}
+.tupian3{
+	float: left;
+	margin-top: 40px;
+}
+.tupian4{
+	float: left;
+	margin-top: 40px;
+}
+.tupian1ul{
+	border: 1px dashed white;
+	width: 183px;
+	position: relative;
+	bottom: 270px;
+	left: 30px;
+}
+.tupian1ziti1{
+	font-size: 30px;
+	color: yellow;
+}
+.tupian1ziti2{
+	font-size: 30px;
+	color: white;
+}
+.tupian1ul2{
+	position: relative;
+	bottom: 250px;
+	left: 30px;
+}
+.tupian1ziti3{
+	border: 1px solid yellow;
+	width: 87px;
+	color: yellow;
+
+}
+.tupian2ul2{
+	width: 175px;
+}
+.tupian2ziti1{
+	color: white;
+}
+.tupian2ziti2{
+	color: white;
+	background:rgba(0,0,0,1);
+	opacity:0.5;
+}
+.tupian2ul{
+	position: relative;
+	bottom: 200px;
+	left: 20px;
+}
+.tupian2ul2{
+	position: relative;
+	bottom: 190px;
+	left: 20px;
+}
+.last{
+	height: 300px;
+	margin-left: 360px;
+	margin-top: 100px;
+	position: absolute;
+}
+.lastziti{
+	font-size: 12px;
+	width: 250px;
+
+}
+.last p{
+	margin-top: 50px;
+}
+.lastziti1{
+	font-size: 16px;
+	color: #00A4FF;
+	border: 1px solid #00A4FF;
+	width: 100px;
+	height: 36px;
+	text-align: center;
+	line-height: 36px;
+}
+.lastright1{
+	position: relative;
+	left: 1000px;
+	bottom: 150px;
+
+}
+.lastright2{
+	float: right;
+	position: relative;
+	left: 700px;
+	bottom: 225px;
+}
+.lastright3{
+	float: right;
+	position: relative;
+	left: 500px;
+	bottom: 225px;
+}
+.da{
+	font-size: 16px;
+	margin-bottom: 10px;
+}
+.xiao{
+	font-size: 12px;
+}
+
+
+
+
+
